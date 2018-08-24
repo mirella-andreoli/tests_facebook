@@ -1,6 +1,6 @@
 # tests_facebook
 
-Prova de conceito de documentação, levantamento de cenários e automatação de testes de API e UI.
+Prova de conceito de documentação, levantamento de cenários e automação de testes de API e UI.
 
 --
 
